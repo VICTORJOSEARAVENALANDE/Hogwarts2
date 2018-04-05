@@ -1,0 +1,23 @@
+body, html {
+    height: 100%;
+    width: 100%;
+}
+
+header {
+    height: auto;
+    width: 100%;
+}
+
+.header-image {
+    display: block;
+    background-image: url("headerimage.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 20vh;
+    width: 100vw;
+}
+
+form {
+    width:50%;
+}

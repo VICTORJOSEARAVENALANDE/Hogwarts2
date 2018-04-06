@@ -1,6 +1,12 @@
 body, html {
-    height: 100%;
+    height: auto%;
     width: 100%;
+    margin: 0;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
 }
 
 header {
@@ -20,4 +26,24 @@ header {
 
 form {
     width:50%;
+}
+
+.gryffindor-index {
+    background: #740E0C;
+}
+
+.index-main {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    width: 100%;
+    margin: 0;
+    padding: 2.5%;
+    
+    flex-wrap: wrap;
+    flex: 1 1 auto;
+}
+
+.gryffindor.index-main {
+    color: white;
 }

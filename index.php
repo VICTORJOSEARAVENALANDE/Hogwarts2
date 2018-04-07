@@ -14,8 +14,10 @@
         <?php include_once("assets/header.php"); ?>
 
         <main class="index-main">
-            <form class="">
-
+            <form class="" action="" method="post">
+                
+                <h1>Student register</h1>
+                
                 <div class="form-group row">
                     <label for="firstname" class="col-sm-3 col-form-label">First name *</label>
                     <div class="col-sm-9">
@@ -29,7 +31,47 @@
                         <input type="text" class="form-control" id="middlename" name="middlename" placeholder="Middle name">
                     </div>
                 </div>
-
+                
+                  <div class="form-group row">
+                    <label for="lastname" class="col-sm-3 col-form-label">Last name *</label>
+                    <div class="col-sm-9">
+                        <input type="text" class="form-control" id="lastname" name="lastname" placeholder="Last name" required>
+                    </div>
+                </div>
+                
+                   <div class="form-group row">
+                    <label for="pet" class="col-sm-3 col-form-label">Pet</label>
+                    <div class="col-sm-9">
+                        <input type="text" class="form-control" id="pet" name="pet" placeholder="Pet">
+                    </div>
+                </div>
+                
+                   <div class="form-group row">
+                    <label for="year" class="col-sm-3 col-form-label">Year *</label>
+                    <div class="col-sm-9">
+                        <input type="text" class="form-control" id="year" name="year" placeholder="Year" required>
+                    </div>
+                </div>
+                
+                   <div class="form-group row">
+                    <label for="species" class="col-sm-3 col-form-label">Species *</label>
+                    <div class="col-sm-9">
+                        <input type="text" class="form-control" id="species" name="species" placeholder="Species" required>
+                    </div>
+                </div>
+                
+                 <div class="form-group row">
+                    <label for="gender" class="col-sm-3 col-form-label">Gender *</label>
+                    <div class="col-sm-9">
+                        <select class="form-control" id="gender" name="gender">
+                            <option selected disabled>Select gender</option>
+                            <option>Male</option>
+                            <option>Female</option>
+                            <option>Other</option>
+                        </select>
+                     </div>
+                </div>
+                
                 <div class="form-group row">
                     <label for="house" class="col-sm-3 col-form-label">House *</label>
                     <div class="col-sm-9">

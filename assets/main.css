@@ -32,6 +32,14 @@ form {
     background: #740E0C;
 }
 
+.ravenclaw-index {
+    background: #4a6289;
+}
+
+.hufflepuff-index {
+    background: #c69940;
+}
+
 .index-main {
     display: flex;
     justify-content: center;

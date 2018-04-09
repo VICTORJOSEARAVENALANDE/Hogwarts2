@@ -21,7 +21,11 @@ header {
     background-size: cover;
     background-position: center;
     height: 20vh;
-    width: 100vw;
+    width: 100%;
+}
+
+.customNav{
+    flex-grow: 0;
 }
 
 form {
@@ -38,6 +42,9 @@ form {
 
 .hufflepuff-index {
     background: #c69940;
+}
+.slytherin-index {
+    background: #386849;
 }
 
 .index-main {

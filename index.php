@@ -87,7 +87,7 @@
 
                 <div class="form-group row">
                     <div class="col-sm-10">
-                        <button type="submit" class="btn btn-primary">Sign in</button>
+                        <button type="submit" class="btn btn-success">Enter house</button>
                     </div>
                 </div>
             </form>

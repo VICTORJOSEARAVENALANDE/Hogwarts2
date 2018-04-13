@@ -62,3 +62,21 @@ form {
 .gryffindor.index-main {
     color: white;
 }
+
+.pointsHeader {
+    display: flex;
+    justify-content: space-around
+}
+
+.pointsDisplay {
+    display: flex;
+}
+
+.pointsDisplay p{
+    width: 25%;
+    text-align: center;
+}
+
+.pointsText {
+    text-align: center;
+}

@@ -25,7 +25,6 @@
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <a class="dropdown-item" href="ravenclaw.php">House</a>
                         <a class="dropdown-item" href="#">Students</a>
-                        <a class="dropdown-item" href="#">Points</a>
                     </div>
                 </li>
 
@@ -36,7 +35,6 @@
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <a class="dropdown-item" href="slytherin.php">House</a>
                         <a class="dropdown-item" href="#">Students</a>
-                        <a class="dropdown-item" href="#">Points</a>
                     </div>
                 </li>
 
@@ -47,14 +45,16 @@
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <a class="dropdown-item" href="hufflepuff.php">House</a>
                         <a class="dropdown-item" href="#">Students</a>
-                        <a class="dropdown-item" href="#">Points</a>
                     </div>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">School rules</a>
+                    <a class="nav-link" href="schoolrules.php">School rules</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Quidditch</a>
+                    <a class="nav-link" href="quidditch.php">Quidditch</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="points.php">Points</a>
                 </li>
                 </div>
             </nav>

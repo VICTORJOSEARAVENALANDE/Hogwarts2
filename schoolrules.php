@@ -13,13 +13,22 @@
         <?php include_once("assets/header.php"); ?>
 
         <main class="schoolrules index-main">
-            <h2>Rule 1</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ligula lectus, pharetra vel feugiat a, hendrerit at lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus laoreet dignissim eros at porttitor. Morbi nunc urna, varius vel felis at, consequat posuere ligula. Aliquam venenatis ligula ac placerat blandit. Sed consectetur venenatis finibus. Vivamus gravida tellus non arcu consectetur venenatis.
+           
+            <h4>Hogwarts Grounds</h4>
+            <p>*Students shall not leave Hogwarts grounds.
+*Students may leave with the Headmaster's permission, if collected by a parent or guardian.
+*On the first and third weekends of each month, Third through Seventh Years may visit Hogsmeade Village with a permission slip from the student's parent or guardian. Students are free to travel to Hogsmeade after classes on Friday (3:00 pm) until curfew (10:00 pm), when they are expected to be back in their dorms at Hogwarts. On Saturday and Sunday they may from after breakfast (8:00 am) until curfew (10:00 pm) on the same day.
+*Visitors to Hogwarts must obtain permission from the Headmaster or Deputy Headmaster. This includes parents of students, and Ministry personnel.
+*The only exceptions to this rule are members of the Hogwarts Board of Governors, who have free access to the school.
             </p>
-            <h2>Rukle 2</h2>
-            <p>Curabitur et erat odio. Curabitur quis felis libero. Cras finibus tincidunt viverra. Integer blandit augue eget ex venenatis tincidunt. Donec mollis ex a arcu luctus sagittis. Cras porttitor fermentum nisl tempus ultricies. Praesent tincidunt, massa vel rhoncus maximus, eros erat placerat enim, vitae mattis nibh ex at tortor. In eu vestibulum sapien.</p>        
-            <h2>Rule 3</h2>
-            <p>Curabitur et erat odio. Curabitur quis felis libero. Cras finibus tincidunt viverra. Integer blandit augue eget ex venenatis tincidunt. Donec mollis ex a arcu luctus sagittis. Cras porttitor fermentum nisl tempus ultricies. Praesent tincidunt, massa vel rhoncus maximus, eros erat placerat enim, vitae mattis nibh ex at tortor. In eu vestibulum sapien.</p>
+            <h4>House Areas</h4>
+            <p>*Access to common rooms and dormitories is strictly controlled.
+*Students may not enter the common rooms or dormitories of houses other than their own. Each common room has a protective measure in place to restrict access. The Gryffindor Tower and Slytherin Dungeon require passwords. Ravenclaw Tower requires the answer to a riddle. The Hufflepuff Basement requires tapping a specific barrel in a particular rhythm. Attempts to bypass these protective measures by members of other houses are considered serious offences.
+*Boys may not enter the girls' dormitories. Attempts to do so will trigger spells preventing it, such as a Slide Spell on the staircases in the Gryffindor and Ravenclaw rooms. The one exception to this is a male Prefect in an emergency.</p>        
+            <h4>Curfew</h4>
+            <p>*Students must be in their dormitories and in bed by a 10:00 p.m. curfew.
+Students may not leave their house common rooms until 6:00 a.m.
+Prefects may be out of bed after hours if they are scheduled for patrol duty. Prefects must still remain within the castle during patrols.</p>
         </main>
 
 

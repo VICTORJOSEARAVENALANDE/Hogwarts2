@@ -14,11 +14,24 @@
 
         <main class="quidditch index-main">
             <h2>Quidditch</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ligula lectus, pharetra vel feugiat a, hendrerit at lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus laoreet dignissim eros at porttitor. Morbi nunc urna, varius vel felis at, consequat posuere ligula. Aliquam venenatis ligula ac placerat blandit. Sed consectetur venenatis finibus. Vivamus gravida tellus non arcu consectetur venenatis.
+            <p>Tryouts for House Quidditch teams happen at the very beginning of the school year. The Heads of house have a list of applicants and pass them on to the team captain, so the captain can schedule tryouts at their leisure. First years are usually prohibited from joining a Quidditch team, because they are usually inexperienced with brooms and are forbidden to own them in the first place. However, exceptions have been made on both counts. Harry Potter is a noticeable exception, he was allowed to join the team in his first year and was the youngest Seeker in a century. There are four House teams:
             </p>
-            <h2>Main rules</h2>
-            <p>Curabitur et erat odio. Curabitur quis felis libero. Cras finibus tincidunt viverra. Integer blandit augue eget ex venenatis tincidunt. Donec mollis ex a arcu luctus sagittis. Cras porttitor fermentum nisl tempus ultricies. Praesent tincidunt, massa vel rhoncus maximus, eros erat placerat enim, vitae mattis nibh ex at tortor. In eu vestibulum sapien.      
-            Curabitur et erat odio. Curabitur quis felis libero. Cras finibus tincidunt viverra. Integer blandit augue eget ex venenatis tincidunt. Donec mollis ex a arcu luctus sagittis. Cras porttitor fermentum nisl tempus ultricies. Praesent tincidunt, massa vel rhoncus maximus, eros erat placerat enim, vitae mattis nibh ex at tortor. In eu vestibulum sapien.</p> 
+            <h2></h2>
+            <p>Tryouts for House Quidditch teams happen at the very beginning of the school year. The Heads of house have a list of applicants and pass them on to the team captain, so the captain can schedule tryouts at their leisure. First years are usually prohibited from joining a Quidditch team, because they are usually inexperienced with brooms and are forbidden to own them in the first place. However, exceptions have been made on both counts. Harry Potter is a noticeable exception, he was allowed to join the team in his first year and was the youngest Seeker in a century. There are four House teams</p>
+            <h3> Gryffindor</h3>
+            <p>The Gryffindor Quidditch team is the Quidditch team of Hogwarts School of Witchcraft and Wizardry's Gryffindor House. They play in robes of scarlet, their House colour. The mascot of Gryffindor House and its Quidditch team is a lion. It has won the house Cup at least four times and has been captained by: Oliver Wood, Angelina Johnson, and Harry Potter, and many others.
+
+Before Harry joined in 1991, the team was noted by McGonagall to be on a losing streak and that she could not bare any more of Severus Snape's boasting .</p> 
+            <h3>Ravenclaw</h3>
+            <p>The Ravenclaw Quidditch team is the Quidditch team of Hogwarts School of Witchcraft and Wizardry's Ravenclaw House. They play in robes of blue, their House colour. The mascot of Ravenclaw House and its Quidditch team is a eagle. One known captain of the team was Roger Davis.
+            </p>
+            <h3>Sltyherin</h3>
+            <p>The Slytherin Quidditch team is the Quidditch team of Hogwarts School of Witchcraft and Wizardry's Slytherin House. They play in robes of green, their House colour. The mascot of Slytherin House and its Quidditch team is a serpent. It has been captained by: Katie Rayknolls,  Winky Crockett, Marcus Flint, and many others.
+
+                The Slytherin team has no qualms with cheating and unsportsmanlike conduct. It has been noted that the Slytherin team employees players of brute strength, rather then skill.</p>
+            <h3>Hufflepuff</h3>
+            <p>The Hufflepuff Quidditch team is the Quidditch team of Hogwarts School of Witchcraft and Wizardry's Hufflepuff House. They play in robes of canary yellow, their House colour. The mascot of Hufflepuff House and its Quidditch team is a badger. One known captain of the team was Cedric Diggory.
+            </p>
         </main>
 
 
